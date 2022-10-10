@@ -13,5 +13,6 @@ public class service {
         System.out.println("再来个pull试试");
         System.out.println("再来个push试试");
         System.out.println("我ssh pull为啥找不到分支啊");
+        System.out.println("可以了，哈哈");
     }
 }
