@@ -11,5 +11,6 @@ public class service {
         System.out.println("push test");
         System.out.println("pull test");
         System.out.println("再来个pull试试");
+        System.out.println("再来个push试试");
     }
 }
